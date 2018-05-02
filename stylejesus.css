@@ -1,0 +1,73 @@
+div#uno {
+    background-image: url(https://d2mgbjyendvdw0.cloudfront.net/26538/03322/e4dcbf/opendesk_shot3_2045_edit.full.jpg); 
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+div#dos {
+    background-image: url(https://d2mgbjyendvdw0.cloudfront.net/21165/02289/32c436/opendesk_homepage_maker-feature_renatus.full.jpg);
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+div.filaimagen {
+    background-position: center center;
+    background-size:cover;
+     /*min-height: 700px;*/
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 180px;
+
+    filter:brightness(0,6);
+    color: white;
+
+    /*
+    -webkit-filter:contrast (40%);
+    filter:grayscale(100%);
+    opacity; 0,9;
+    */
+}
+
+div#muebles > div  {
+    
+    text-align: center;
+    background-color: white;
+
+}
+
+div#muebles {
+    padding-top: 60px,60px,80px;
+    background-color: #f1f1f1;
+}
+
+.card-body {
+    background-color: #f1f1f1;
+}
+
+.card:hover {
+    border:.1rem solid #c9f2e2;
+}
+
+#pasos{
+margin: 50px;
+}
+
+
+#pasos .fab{
+    margin-top: 50 px;
+    margin-bottom: 50px;
+    font-size: 2em;
+}
+#pasos > p:first-child{
+    letter-spacing: 3px;
+}
+a.btn , button {
+    background-color: #008955;
+    /*padding-left: 30px, !important;
+    padding-right: 30px, !important;*/
+    min-width: 15%;
+}
+
+#mivideo {
+
+padding: 80px;
+
+}
